@@ -1,0 +1,12 @@
+# Ignore debug build version of App
+App-debug.html
+# Ignore 'local' build version of App
+App-local.html
+node_modules
+auth.json
+auth.json*
+#test files
+_SpecRunner.html
+.grunt
+deploy/
+-deploy/Ugly.txt

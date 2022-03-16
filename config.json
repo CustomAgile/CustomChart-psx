@@ -1,0 +1,25 @@
+{
+    "className": "CustomChartApp",
+    "server": "https://rally1.rallydev.com",
+    "sdk": "2.1",
+    "javascript": [
+        "Overrides.js",
+        "node_modules/@agile-central-technical-services/utils-cancel-store-load/index.js",
+        "node_modules/@agile-central-technical-services/utils-ancestor-pi-app-filter/index.js",
+        "node_modules/@agile-central-technical-services/utils-ancestor-pi-inline-filter/index.js",
+        "Config.js",
+        "ChartUtils.js",
+        "Calculator.js",
+        "bar/Calculator.js",
+        "bar/Chart.js",
+        "column/Calculator.js",
+        "column/Chart.js",
+        "pie/Calculator.js",
+        "pie/Chart.js",
+        "Settings.js",
+        "CustomChartApp.js"
+    ],
+    "css": [
+        "app.css"
+    ]
+}
